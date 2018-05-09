@@ -2,7 +2,6 @@
  
 
 
-<h2> D S <h2>
 
 * https://datajobs.com/what-is-data-science
 
@@ -12,13 +11,14 @@
 
 * https://blog.udacity.com/2014/11/data-science-job-skills.html
 
+<h2> D S <h2>
  
  
 
 https://www.msn.com/en-in/sports
 http://www.espn.in/
 http://www.fifa.com/worldcup/news/y=2018/m=4/news=47-days-to-go-el-maestro-returns-2945257.html
-===============Sports=========================
+<h2> sports </h2>
 
 http://www.wipro.com/holmes/
 http://www.digitate.com/
