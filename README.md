@@ -5,8 +5,11 @@
 
 
 https://datajobs.com/what-is-data-science
+
 https://www.edureka.co/blog/what-is-data-science/
+
 https://www.quora.com/What-is-data-science
+
 https://blog.udacity.com/2014/11/data-science-job-skills.html
 =======data science=========
 
