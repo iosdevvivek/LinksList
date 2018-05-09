@@ -1,6 +1,8 @@
 # LinksList
  
-
+<!DOCTYPE html>
+<html>
+<body>
 
 
 * https://datajobs.com/what-is-data-science
@@ -254,4 +256,5 @@ d have 1 click ...where r we going to store it.....how many vars needed for it..
 
 =======angularjs questions============
 
-
+</body>
+</html>
