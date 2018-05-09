@@ -2,7 +2,7 @@
  
 
 
-
+<h2> D S <h2>
 
 * https://datajobs.com/what-is-data-science
 
@@ -12,15 +12,8 @@
 
 * https://blog.udacity.com/2014/11/data-science-job-skills.html
 
-<h1> test <h2>
-
-test2
-
-test3
-
-* test4
-# test5
-=======data science=========
+ 
+ 
 
 https://www.msn.com/en-in/sports
 http://www.espn.in/
